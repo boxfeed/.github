@@ -4,18 +4,17 @@
   <a href="https://boxfeed.co">
     <img src="https://assets.boxfeed.co/images/logomark/circle-light.svg" height="112" alt="Boxfeed Logomark">
   </a>
-  <h1>Boxfeed on GitHub</h1>
-  <strong>Organization-wide health files ❤️</strong>
+  <h2>Boxfeed on GitHub</h2>
 </div>
 
-<br />
+<p align="center">Organization-wide health files ❤️</p>
 
 <div align="center">
-  <a href="https://figma.com/@boxfeed"><strong>Figma</strong></a>
+  <a href="https://figma.com/@boxfeed">Figma</a>
   •
-  <a href="https://boxfeed.slack.com"><strong>Slack</strong></a>
+  <a href="https://boxfeed.slack.com">Slack</a>
   •
-  <a href="https://boxfeed.com"><strong>Website</strong></a>
+  <a href="https://boxfeed.com">Website</a>
   •
-  <a href="https://github.com/boxfeed/feedback/"><strong>Feedback</strong></a>
+  <a href="https://github.com/boxfeed/feedback/">Feedback</a>
 </div>
