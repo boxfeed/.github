@@ -4,7 +4,7 @@
   <a href="https://boxfeed.co">
     <img src="https://assets.boxfeed.co/images/logomark/circle-light.svg" height="112" alt="Boxfeed Logomark">
   </a>
-  <h1>Boxfeed</h1>
+  <h2>👋 Hey there! We're Boxfeed</h2>
 </div>
 
 <p align="center">Enhance the sale of your products by delivering them in the original box.</p>
